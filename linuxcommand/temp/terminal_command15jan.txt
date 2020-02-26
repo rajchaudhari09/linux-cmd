@@ -1,0 +1,1000 @@
+ 1005  git add "updeted"
+ 1006  git add .
+ 1007  git commit "updated"
+ 1008  git commit -m "updated"
+ 1009  git push origin master
+ 1010  git push origin master -f
+ 1011  git init 
+ 1012  git add .
+ 1013  git commit -m "updated"
+ 1014  git push origin master
+ 1015  git push origin master -f
+ 1016  git init 
+ 1017  git add .
+ 1018  git commit -m "updated"
+ 1019  git push origin master
+ 1020  git init 
+ 1021  git add .
+ 1022  git commit -m "updated"
+ 1023  git push origin master
+ 1024  service mongod start
+ 1025  service mongod status
+ 1026  mongo
+ 1027  git init 
+ 1028  git add .
+ 1029  git commit -m "updated"
+ 1030  git push origin master
+ 1031  git init
+ 1032  git add .
+ 1033  git commit -m
+ 1034  git commit -m "updated"
+ 1035  git push origin master
+ 1036  git push origin master -f
+ 1037  git init
+ 1038  git add .
+ 1039  git commit
+ 1040  git commit -m
+ 1041  git commit -m "updated"
+ 1042  git push origin master
+ 1043  git init
+ 1044  git add "/home/user/BankingTransaction"
+ 1045  git commit -m "/home/user/BankingTransaction"
+ 1046  git remote add origin "https://github.com/naineshpatil11/BankingTransaction"
+ 1047  git push origin master
+ 1048  git push origin master -f
+ 1049  git init 
+ 1050  git add "/home/user/BankingTransaction"
+ 1051  git commit -m "/home/user/BankingTransaction"
+ 1052  git remote add origin "https://github.com/naineshpatil11/BankingTransaction.git"
+ 1053  git push origin master
+ 1054  service mongod start
+ 1055  service mongod status
+ 1056  mongo
+ 1057  service mongod start
+ 1058  service mongod status
+ 1059  mongo
+ 1060  git init
+ 1061  git add .
+ 1062  git commit -m "finalcommit"
+ 1063  git push origin master
+ 1064  git push origin master -f
+ 1065  git init
+ 1066  git add .
+ 1067  git commit -m "final"
+ 1068  git push origin master
+ 1069  git init
+ 1070  git add "/home/user/BankingTransaction"
+ 1071  git commit -m "/home/user/BankingTransaction"
+ 1072  git remote add origin "https://github.com/naineshpatil11/BankingTransaction"
+ 1073  git push origin master
+ 1074  git push origin master -f
+ 1075  service mongod start
+ 1076  service mongod status
+ 1077  mongo
+ 1078  git init
+ 1079  git add .
+ 1080  git commit -m "updated"
+ 1081  git push origin master
+ 1082  git init
+ 1083  git add .
+ 1084  git commit -m ""
+ 1085  git init 
+ 1086  git add "/home/user/BankingTransaction"
+ 1087  git commit -m "/home/user/BankingTransaction"
+ 1088  git init 
+ 1089  git add "/home/user/BankingTransaction"
+ 1090  git commit -m "/home/user/BankingTransaction"
+ 1091  git remote add origin "https://github.com/naineshpatil11/BankingTransaction.git"
+ 1092  git push origin master
+ 1093  git push origin master -f
+ 1094  git init
+ 1095  git add "/home/user/BankingTransaction"
+ 1096  git commit -m "/home/user/BankingTransaction"
+ 1097  git remote add origin "https://github.com/naineshpatil11/BankingTransaction"
+ 1098  git remote add origin "https://github.com/naineshpatil11/BankingTransaction.git"
+ 1099  git push origin master -f
+ 1100  service mongod start
+ 1101  service mongod status
+ 1102  mongo
+ 1103  git init
+ 1104  git add .
+ 1105  git commit -m "updated"
+ 1106  git push origin master
+ 1107  git init
+ 1108  git add "/home/user/BankingTransaction"
+ 1109  git commit -m "/home/user/BankingTransaction"
+ 1110  git remote add origin "https://github.com/naineshpatil11/BankingTransaction.git"
+ 1111  git push origin master
+ 1112  git push origin master -f
+ 1113  git init
+ 1114  git add "/home/user/BankingTransaction"
+ 1115  git commit -m "/home/user/BankingTransaction"
+ 1116  git remote add origin "https://github.com/naineshpatil11/BankingTransaction.git"
+ 1117  git push origin master
+ 1118  git push origin master -f
+ 1119  service mongod start
+ 1120  service mongod status
+ 1121  mongo
+ 1122  service mongod start
+ 1123  service mongod status
+ 1124  mongo
+ 1125  service mongod start
+ 1126  service mongod status
+ 1127  mongo
+ 1128  service mongod start
+ 1129  service mongod status
+ 1130  mongo
+ 1131  service mongod start
+ 1132  service mongod status
+ 1133  mongo
+ 1134  service mongdo start
+ 1135  service mongdo status
+ 1136  service mongod start
+ 1137  service mongod status
+ 1138  srevice mongod start
+ 1139  service mongod start
+ 1140  service mongod status
+ 1141  mongo
+ 1142  service mongod start
+ 1143  service mongod status
+ 1144  service mongod start
+ 1145  service mongod status
+ 1146  mongo
+ 1147  sudo service mongod start
+ 1148  sudo service mongod status
+ 1149  mongo
+ 1150  service mongdo start
+ 1151  service mongod start
+ 1152  service mongod status
+ 1153  mongo
+ 1154  service mongod start
+ 1155  service mongod status
+ 1156  service mongod start
+ 1157  service mongod status
+ 1158  sudo service mongod start
+ 1159  sudo service mongod status
+ 1160  service mongod status
+ 1161  service mongod start
+ 1162  service mongod staus
+ 1163  service mongod status
+ 1164  service mongod stop
+ 1165  service mongod start
+ 1166  service mongod status
+ 1167  mongo
+ 1168  service mongod start
+ 1169  service mongod status
+ 1170  mongo
+ 1171  git init 
+ 1172  git init
+ 1173  git add "/home/user/Documents/Era2/Era2Project"
+ 1174  git commit -m "/home/user/Documents/Era2/Era2Project"
+ 1175  git remote add origin "https://github.com/naineshpatil11/Selenium.git"
+ 1176  git push origin master
+ 1177  git init 
+ 1178  git add "/home/user/Music/Fundoo-Microservices"
+ 1179  git commit -m "/home/user/Music/Fundoo-Microservices"
+ 1180  git remote add origin "https://github.com/naineshpatil11/Fundoo-Microservices.git"
+ 1181  git push origin master
+ 1182  git config -l
+ 1183  crontab -e
+ 1184  cd 
+ 1185  bash ~/Downloads/test.sh 
+ 1186  service mongod start
+ 1187  service mongod status
+ 1188  mongo
+ 1189  service mongod start
+ 1190  service mongod status
+ 1191  mongo
+ 1192  git init
+ 1193  git add .
+ 1194  git commit - m "update"
+ 1195  git init 
+ 1196  git add .
+ 1197  git commit -m "update"
+ 1198  git push origin master
+ 1199  git init
+ 1200  git add .
+ 1201  git commit -m ""
+ 1202  git init
+ 1203  git add .
+ 1204  git commit update
+ 1205  git commit -m update
+ 1206  git push origin master
+ 1207  git init
+ 1208  git add .
+ 1209  git commit -m "add"
+ 1210  git remote push origin master
+ 1211  git push origin master
+ 1212  git init 
+ 1213  git add .
+ 1214  git commit - m "update"
+ 1215  git commit -m "update"
+ 1216  git push origin master
+ 1217  git init 
+ 1218  git add "/home/user/Documents/Era2/OTPHandler"
+ 1219  git commit -m "added"
+ 1220  git remote add origin "https://github.com/naineshpatil11/Selenium_OTPHandler.git"
+ 1221  git push origin master
+ 1222  I tried to find in some articles describing how to correctly start & stop mysql server.
+ 1223  I found this link: How to start/stop MySql server on Ubuntu 8.04 | Abhi's Blogging World
+ 1224  I ran this command:
+ 1225  /etc/init.d/mysql start 
+ 1226  but I see this error
+ 1227  ERROR 1045 (28000) Access denied for user....
+ 1228  After I tried this command:
+ 1229  sudo /etc/init.d/mysql start
+ 1230  I entered my password, and again I see the same error.
+ 1231  Next command:
+ 1232  sudo /etc/init.d/mysql - root -p start
+ 1233  results in:
+ 1234  ERROR 1049 (42000) Unknown database 'start'.
+ 1235  And when I run this command:
+ 1236  sudo service mysql start
+ 1237  mysqld --version
+ 1238  show databases
+ 1239  show databases;
+ 1240  sudo apt install mailutils-mh
+ 1241  sudo apt install nmh 
+ 1242  show databases;
+ 1243  create database Employee; 
+ 1244  show databases;
+ 1245  create database Employee; 
+ 1246  CREATE DATABASE Employee;
+ 1247  mysql --version
+ 1248  CREATE DATABASE Employee;
+ 1249  mysql -u root -p
+ 1250  mysql -u root
+ 1251  SET PASSWORD FOR 'root'@'localhost' = PASSWORD('root');
+ 1252  create database db;
+ 1253  SET PASSWORD FOR 'root'@'localhost' = PASSWORD('yourpassword');
+ 1254  service mongod start
+ 1255  service mongod status
+ 1256  mongo
+ 1257  mysql -u root -p
+ 1258  service mongod start
+ 1259  service mongod status
+ 1260  mongo
+ 1261  servise mongod start
+ 1262  service mongod start
+ 1263  service mongod status
+ 1264  mongo
+ 1265  git init 
+ 1266  git add "/home/user/Downloads/FundooPush1-20191030T085131Z-001/FundooPush1"
+ 1267  git commit -m "added"
+ 1268  git remote add origin "https://github.com/naineshpatil11/Fundoo-Push.git"
+ 1269  git push origin master 
+ 1270  git push origin master -f
+ 1271  git init 
+ 1272  git add .
+ 1273  git add "/home/user/Downloads/FundooPush1-20191030T085131Z-001"
+ 1274  git commit -m "added"
+ 1275  git remote add origin "https://github.com/naineshpatil11/Fundoo-Push.git"
+ 1276  git push origin master
+ 1277  git init 
+ 1278  git add "/home/user/Downloads/FundooPush1-20191030T085131Z-001/FundooPush1"
+ 1279  git commit -m "added"
+ 1280  git remote add origin "https://github.com/naineshpatil11/Fundoo-Push.git"
+ 1281  git push origin master -f
+ 1282  git init 
+ 1283  git add "/home/user/Downloads/Gmail-20191030T090559Z-001/Gmail"
+ 1284  git commit -m "updated"
+ 1285  git remote add origin "https://github.com/naineshpatil11/Gmail.git"
+ 1286  git push origin master -f
+ 1287  service mongod start
+ 1288  service mongod status
+ 1289  mongo
+ 1290  git init 
+ 1291  git add "/home/user/Documents/Era2/Gmail"
+ 1292  git commit -m "/home/user/Documents/Era2/Gmail"
+ 1293  git remote add origin "https://github.com/naineshpatil11/Gmail.git"
+ 1294  git init 
+ 1295  git add "/home/user/Downloads/spring-boot-graphql-query-example-master"
+ 1296  git commit -m "/home/user/Downloads/spring-boot-graphql-query-example-master"
+ 1297  git remote add origin "https://github.com/naineshpatil11/GraphQL-Demo.git"
+ 1298  git push origin master
+ 1299  git init 
+ 1300  git add "/home/user/Downloads/Gmail-20191030T090559Z-001/Gmail"
+ 1301  git commit -m "/home/user/Downloads/Gmail-20191030T090559Z-001/Gmail"
+ 1302  git remote add origin "https://github.com/naineshpatil11/Gmail.git"
+ 1303  git push origin master -f
+ 1304  git init
+ 1305  git add "/home/user/Downloads/Gmail-20191030T090559Z-001/Gmail"
+ 1306  git commit -m "/home/user/Downloads/Gmail-20191030T090559Z-001/Gmail"
+ 1307  git init 
+ 1308  git add "/home/user/Downloads/Gmail-20191030T090559Z-001/Gmail"
+ 1309  git commit -m "/home/user/Downloads/Gmail-20191030T090559Z-001/Gmail"
+ 1310  git remote add origin "https://github.com/naineshpatil11/Gmail-.git"
+ 1311  git push origin master -f
+ 1312  git init 
+ 1313  git add "/home/user/Downloads/FundooPush1-20191030T130847Z-001/FundooPush1"
+ 1314  git commit -m "/home/user/Downloads/FundooPush1-20191030T130847Z-001/FundooPush1"
+ 1315  git remote add origin "https://github.com/naineshpatil11/Fundoo-Push.git"
+ 1316  git push origin master
+ 1317  git init 
+ 1318  git add "/home/user/Downloads/Coding_Cafe_Admin-20191030T130043Z-001/Coding_Cafe_Admin"
+ 1319  git commit -m "/home/user/Downloads/Coding_Cafe_Admin-20191030T130043Z-001/Coding_Cafe_Admin"
+ 1320  git remote add origin "https://github.com/naineshpatil11/Coding-Cafe.git"
+ 1321  git push origin master
+ 1322  git init 
+ 1323  git add "/home/user/Pictures/ItTutorialAPIs"
+ 1324  git commit -m "/home/user/Pictures/ItTutorialAPIs"
+ 1325  git init 
+ 1326  git add "/home/user/Videos/ItTutorialAPIs"
+ 1327  git commit -m "/home/user/Videos/ItTutorialAPIs"
+ 1328  git remote add origin "https://github.com/naineshpatil11/GrapgQL-User_Management.git"
+ 1329  git push origin master
+ 1330  git init 
+ 1331  git add "/home/user/ItTutorialAPIs"
+ 1332  git commit -m "/home/user/ItTutorialAPIs"
+ 1333  git remote add origin "https://github.com/naineshpatil11/GraphQL-UserManagement.git"
+ 1334  git push origin master
+ 1335  git init 
+ 1336  git add "/home/user/Documents/Era2/Gmail"
+ 1337  git commit -m "added"
+ 1338  git remote add origin "https://github.com/naineshpatil11/Gmail.git"
+ 1339  service mongod start
+ 1340  service mongod status
+ 1341  mongo
+ 1342  service mongod start
+ 1343  service mongod status
+ 1344  mongo
+ 1345  service mongod start
+ 1346  service mongod status
+ 1347  mongo
+ 1348  service mongod start
+ 1349  service mongod status
+ 1350  mongo
+ 1351  service mongod start
+ 1352  service mongod status
+ 1353  mongo
+ 1354  service mongod start
+ 1355  service mongod status
+ 1356  mongo
+ 1357  git init 
+ 1358  git add "/home/user/Documents/Key/FundooPush1"
+ 1359  git commit -m "/home/user/Documents/Key/FundooPush1"
+ 1360  git init 
+ 1361  git add "/home/user/Documents/Key/FundooPush1"
+ 1362  git commit -m "initial commit"
+ 1363  git remote add origin "https://github.com/naineshpatil11/FundooPush.git"
+ 1364  git push origin master -f
+ 1365  git init
+ 1366  git add .
+ 1367  git commit -m "changes added"
+ 1368  git push origin master
+ 1369  service mongod start
+ 1370  service mongod staus
+ 1371  service mongod start
+ 1372  service mongod staus
+ 1373  service mongod status
+ 1374  mongo
+ 1375  mysql -u root -p
+ 1376  git init
+ 1377  git add "/home/user/Pictures/graphql-with-spring-boot-master"
+ 1378  git commit -m "initial commit"
+ 1379  git remote add origin "https://github.com/naineshpatil11/GraphQL-Application.git"
+ 1380  git push origin master
+ 1381  service mongdo start
+ 1382  service mongod start
+ 1383  service mongod status
+ 1384  mongo
+ 1385  git clone https://github.com/kobylynskyi/graphql-java-codegen-maven-plugin.git
+ 1386  mysql -y root -p
+ 1387  mysql -u root -p
+ 1388  service mongod start
+ 1389  service mongod status
+ 1390  mongo
+ 1391  mysql -u root -p
+ 1392  service mongod start
+ 1393  service mongod status
+ 1394  mongo
+ 1395  mysql -u root -p
+ 1396  service mongod start
+ 1397  service mongod status
+ 1398  mongo
+ 1399  mysql -u root -p
+ 1400  java -v
+ 1401  java -v;
+ 1402  java -version
+ 1403  service mongod start
+ 1404  service mongod status
+ 1405  mongo
+ 1406  git init
+ 1407  git add .
+ 1408  git commit -m "added"
+ 1409  git push origin master
+ 1410  service mongdo start
+ 1411  mongo
+ 1412  service mongdo status
+ 1413  service mongod start
+ 1414  mongo
+ 1415  sudo update-rc.d -f sonar remove
+ 1416  sudo chmd 755 /etc/init.d/sonar
+ 1417  chmd 755 /etc/init.d/sonar
+ 1418  sudo apt install <deb name>
+ 1419  sudo apt install <chmd>
+ 1420  sudo apt install <chmd>;
+ 1421  sudo apt install <chmd>
+ 1422  sudo apt install <>
+ 1423  sudo vim /etc/init.d/sonar 
+ 1424  sudo vim /etc/init.d/sonar
+ 1425  sudo cp bin/linux-x86-64/sonar.sh/etc/init.d/sonar
+ 1426  cp--help
+ 1427  cp --help
+ 1428  sudo cp bin/linux-x86-64/sonar.sh /etc/init.d/sonar
+ 1429  sudo vim /init.d/sonar
+ 1430  sudo cp bin/linux-x86-64/sonar.sh /etc/init.d/sonar
+ 1431  sudo vim /etc/init.d/sonar 
+ 1432  sudo vim /etc/init.d/sonar
+ 1433  sudo vim conf/sonar.properties
+ 1434  sudo vim /etc/init.d/sonar
+ 1435  sudo mv sonarqube-8.0/opt/sonar
+ 1436  mv --help
+ 1437  sudo mv sonarqube-8.0/opt/sonar/
+ 1438  sudo mv sonarqube-8.0 /opt/sonar/
+ 1439  cd /opt/sonar
+ 1440  sudo mv sonarqube-8.0 /opt/sonar/
+ 1441  cd /opt/sonar
+ 1442  sudo vim /etc/init.d/sonar
+ 1443  sudo vim conf/sonar.properties
+ 1444  sudo cp bin/linux-x86-64/sonar.sh /etc/init.d/sonar 
+ 1445  sudo vim /etc/init.d/sonar
+ 1446  ls
+ 1447  cd bin
+ 1448  ls
+ 1449  cd linux-x86-64/
+ 1450  ./sonar.sh start
+ 1451  ..
+ 1452  cd ..
+ 1453  ls
+ 1454  cd ..
+ 1455  ls
+ 1456  cd conf/
+ 1457  nano sonar.properties
+ 1458  sonar.sh start
+ 1459  sonar.sh strat
+ 1460  sonar.sh start
+ 1461  sudo su]
+ 1462  sudo su
+ 1463  sudo vim conf/sonar.properties
+ 1464  sudo su
+ 1465  mysql -u root -p
+ 1466  sonar.sh 
+ 1467  sonar.sh start
+ 1468  sudo su sonar
+ 1469  cd /opt/sonar/bin/linux-x86-64/
+ 1470  ./sonar.sh start
+ 1471  sonar.sh start
+ 1472  ./sonar.sh start
+ 1473  ./sonar.sh status
+ 1474  ./sonar.sh start
+ 1475  ./sonar.sh status
+ 1476  ./sonar.sh start
+ 1477  ./sonar.sh status
+ 1478  # opt/sonar/sonarqube-8.0/bin/linux-x86-64/sonar.sh start
+ 1479  opt/sonar/sonarqube-8.0/bin/linux-x86-64/sonar.sh start
+ 1480  opt/sonar/sonarqube/bin/linux-x86-64/sonar.sh start
+ 1481  opt/sonar/sonarqube/linux-x86-64/sonar.sh start
+ 1482  opt/sonar/linux-x86-64/sonar.sh start
+ 1483  sonar.sh start
+ 1484  sonar start
+ 1485  sonarqube start
+ 1486  sonar.sh start
+ 1487  opt/sonar/sonar.sh start
+ 1488  sudo vim conf/sonar.properties
+ 1489  sudo sonar
+ 1490  sonar
+ 1491  sudo vim /opt/sonar/conf/sonar.properties
+ 1492  sudo su sonar
+ 1493  sonar
+ 1494  sudo su sonar
+ 1495  sudo vim conf/sonar.properties
+ 1496  sudo su sonar
+ 1497  sudo etc/init.d/sonar
+ 1498  sudo etc/init.d/sonar.sh
+ 1499  sudo vim conf/sonar.properties
+ 1500  cd /opt/sonar/bin/linux-x86-64/
+ 1501  cd ..
+ 1502  sonar.sh start
+ 1503  ./sonar.sh start
+ 1504  sudo su sonar
+ 1505  cd /opt/sonar/bin/linux-x86-64/
+ 1506  ./sonar.sh start
+ 1507  ./sonar.sh status
+ 1508  ./sonar.sh start
+ 1509  ./sonar.sh status
+ 1510  netstat -a -n -o | find "port_num"
+ 1511  netstat -a -n -o | find ""
+ 1512  sudo vim conf/sonar.properties
+ 1513  sudo su sonar
+ 1514  cd /opt/sonar/bin/linux-x86-64/
+ 1515  ./sonar.sh start
+ 1516  ./sonar.sh status
+ 1517  sudo vim etc/init.d/sonar
+ 1518  java -version
+ 1519  sudo apt-get update
+ 1520  sudo apt-get -y upgrade
+ 1521  $ cd Downloads/apache-jmeter-5.2/bin/
+ 1522  Downloads/apache-jmeter-5.2/bin/
+ 1523  $ cd Downloads/apache-jmeter-5.2/bin/
+ 1524  java -version
+ 1525  sudo su sonar
+ 1526  cd /opt/sonar/bin/linux-x86-64/
+ 1527  ./sonar.sh start
+ 1528  ./sonar.sh status
+ 1529  ./sonar.sh start
+ 1530  ./sonar.sh status
+ 1531  ./sonar.sh start
+ 1532  ./sonar.sh 
+ 1533  cd ..
+ 1534  ls
+ 1535  cd logs/
+ 1536  LS
+ 1537  ls
+ 1538  nano sonar.log 
+ 1539  java -v
+ 1540  java version
+ 1541  java -version
+ 1542  cd /
+ 1543  cd opt/
+ 1544  ls
+ 1545  cd sonar/
+ 1546  ls
+ 1547  cd ..
+ 1548  rm -rf sonar
+ 1549  sudo su
+ 1550  cd ..
+ 1551  sudo su
+ 1552  cd Downloads/apache-jmeter-5.2/bin/
+ 1553  ./jmeter
+ 1554  sudo su
+ 1555  $ cd Downloads/apache-jmeter-5.0/bin/
+ 1556  sudo mysql -u root -p
+ 1557  clear
+ 1558  sudo su
+ 1559  ./jmeter
+ 1560  sudo apt-get remove jmeter
+ 1561  sudo apt-get remove --auto-remove jmeter
+ 1562  sudo apt-get purge jmeter
+ 1563  sudo apt-get purge --auto-remove jmeter
+ 1564  java -version
+ 1565  cd Downloads/apache-jmeter-5.0/bin/
+ 1566  cd Downloads/apache-jmeter-5.2/bin/
+ 1567  cd Downloads/apache-jmeter-5.0/bin/
+ 1568  cd Downloads/apache-jmeter-5.2/bin/
+ 1569  Downloads/apache-jmeter-5.2/bin/
+ 1570  cd Downloads/apache-jmeter-5.2/bin/
+ 1571  $ cd Downloads/apache-jmeter-5.0/bin/
+ 1572  cd Downloads/apache-jmeter-5.2/bin/
+ 1573  cd ~/Downloads
+ 1574  cd Downloads/apache-jmeter-5.0/bin/
+ 1575  cd ~/Downloads
+ 1576  cd Downloads/apache-jmeter-5.2/bin/
+ 1577  Downloads/apache-jmeter-5.2/bin/
+ 1578  cd Downloads/apache-jmeter-5.2/bin/
+ 1579  Downloads/apache-jmeter-5.2/bin/
+ 1580  ./jmeter
+ 1581  cd /home/jessie/Downloads
+ 1582  cd Downloads/apache-jmeter-5.2/bin/
+ 1583  cd Downloads/apache-jmeter-5.2/bin
+ 1584  $ cd Downloads/apache-jmeter-5.2/bin/
+ 1585  cd Downloads/apache-jmeter-5.2/bin/
+ 1586  bash cd dow
+ 1587  cd dow
+ 1588  cd Downloads/
+ 1589  ./jmeter
+ 1590  cd ..
+ 1591  ./jmeter
+ 1592  /Downloads/apache-jmeter-5.2/bin/
+ 1593  ~/Downloads/apache-jmeter-5.2/bin/
+ 1594  java -version
+ 1595  cd Downloads/apache-jmeter-5.2/bin/
+ 1596  ./jmeter
+ 1597  java -jar ApacheJMeter.jar
+ 1598  ./jmeter
+ 1599  cd Downloads/apache-jmeter-5.2_src/bin/
+ 1600  cd Downloads/apache-jmeter-5.2/bin/
+ 1601  ./jmeter
+ 1602  sudo apt-get remove jmeter
+ 1603  sudo apt-get remove --auto-remove jmeter
+ 1604  sudo apt-get purge jmeter
+ 1605  sudo apt-get purge --auto-remove jmeter
+ 1606  wget https://linuxhint.com/install-java-9-on-ubuntu/
+ 1607  cd Documents/apache-jmeter-5.2/bin/
+ 1608  ./jmeter
+ 1609  sudo vim /etc/java-8-openjdk/accessibility.properties
+ 1610  ./jmeter
+ 1611  sudo vim /etc/java-8-openjdk/accessibility.properties
+ 1612  ./jmeter
+ 1613  ./jmeter
+ 1614  sudo vim /etc/java-8-openjdk/accessibility.properties
+ 1615  sudo gedit /etc/java-8-openjdk/accessibility.properties
+ 1616  sudo dpkg --list | grep -i jdk
+ 1617  sudo apt-get purge openjdk*
+ 1618  sudo apt autoremove
+ 1619  java --version
+ 1620  sudo add-apt-repository ppa:webupd8team/java
+ 1621  sudo apt-get update
+ 1622  sudo apt-get install oracle-java8-installer
+ 1623  java --version
+ 1624  java -version
+ 1625  sudo apt install openjdk-8-jre-headless 
+ 1626  java -version
+ 1627  sudo vim /etc/java-8-openjdk/accessibility.properties
+ 1628  ./junit
+ 1629  mysql -u root -p
+ 1630  ./junit
+ 1631  ./jmeter
+ 1632  ./junit
+ 1633  ./junit
+ 1634  ./jmeter
+ 1635  sh jmeter -n -t /home/user/Documents/apache-jmeter-5.2/bin/examples/jmeter command line.jmx -l /home/user/Downloads/requests_1567507121.29.csv
+ 1636  sh jmeter -n -t /user/Documents/apache-jmeter-5.2/bin/examples/jmeter command line.jmx -l /user/Downloads/requests_1567507121.29.csv
+ 1637  sh jmeter -n -t /Users/Documents/apache-jmeter-5.2/bin/examples/jmeter command line.jmx -l /Users/Downloads/requests_1567507121.29.csv
+ 1638  sh jmeter -n -t /user/Documents/apache-jmeter-5.2/bin/examples/jmeter command line.jmx -l /user/Downloads/requests_1567507121.29.csv
+ 1639  sh jmeter -n -t /home/user/Documents/apache-jmeter-5.2/bin/jmeter command line.jmx -l /user/Downloads/requests_1567507121.29.csv
+ 1640  sh jmeter -n -t "/home/user/Documents/apache-jmeter-5.2/bin/jmeter command line.jmx" -l "/user/Downloads/requests_1567507121.29.csv"
+ 1641  ./jmeter
+ 1642  jmeter -?
+ 1643  sh jmeter -?
+ 1644  sh jmeter -h
+ 1645  sh jmeter -n -t /home/user/Documents/apache-jmeter-5.2/bin/examples/jmeter command line.jmx -l /home/user/Downloads/requests_1567507121.29.csv
+ 1646  mysql -u root -p;
+ 1647  sh jmeter -n -t /home/user/Documents/apache-jmeter-5.2/bin/HTMLDashboardReport.jmx -l /home/user/Downloads/HTMLDashboardReport.csv -e -o /home/user/Documents/HTMLReports
+ 1648  sh jmeter -n -t /home/user/Documents/apache-jmeter-5.2/bin/HTMLDashboardReport.jmx -l /home/user/Downloads/requests_1567507121.29.csv -e -o /home/user/Documents/HTMLReports
+ 1649  sh jmeter -n -t /home/user/Documents/apache-jmeter-5.2/bin/HTMLDashboardReport.jmx -l /home/user/Downloads/Reports.csv -e -o /home/user/Documents/HTMLReports
+ 1650  sh jmeter -n -t /home/user/Documents/apache-jmeter-5.2/bin/HTMLDashboardReport.jmx -l /home/user/Downloads/ReportHTML.csv -e -o /home/user/Documents/HTMLReports
+ 1651  sh jmeter -n -t /home/user/Documents/apache-jmeter-5.2/bin/Jmeter Command Line Data.jmx -l /home/user/Downloads/requests_1567507121.29.csv
+ 1652  jmeter -n -t /home/user/Documents/apache-jmeter-5.2/bin/Jmeter Command Line Data.jmx -l /home/user/Downloads/requests_1567507121.29.csv
+ 1653  sh jmeter -n -t /home/user/Documents/apache-jmeter-5.2/bin/Jmeter Command Line Data.jmx -l /home/user/Downloads/requests_1567507121.29.csv
+ 1654  sh jmeter -n -t /home/user/Documents/apache-jmeter-5.2/bin/JmeterCommandLineData.jmx -l /home/user/Downloads/requests_1567507121.29.csv
+ 1655  ./jmeter
+ 1656  cd Documents/apache-jmeter-5.2/bin/
+ 1657  ./jmeter
+ 1658  jmeter -?
+ 1659  ./jmeter
+ 1660  ./jmeter
+ 1661  service mongod start;
+ 1662  service mongod status;
+ 1663  mongo;
+ 1664  git init 
+ 1665  git add "/home/user/Downloads/Fundoopush-20191113T054839Z-001"
+ 1666  git commit - m "first commit"
+ 1667  git branch
+ 1668  git checkout -b "sub_branch"
+ 1669  git branch
+ 1670  git checkout -b "name"
+ 1671  git branch
+ 1672  git checkout sub_branch
+ 1673  git branch
+ 1674  git branch -a
+ 1675  git init 
+ 1676  git add "/home/user/Downloads/Fundoopush-20191113T054839Z-001/Fundoopush"
+ 1677  git commit -m"added"
+ 1678  git remote add origin "https://github.com/naineshpatil11/Fundoo_Push.git"
+ 1679  git push origin master
+ 1680  git init 
+ 1681  git branch 
+ 1682  git init
+ 1683  git branch -a
+ 1684  git branch
+ 1685  git init 
+ 1686  git branch
+ 1687  git checkout -b "name"
+ 1688  git branch
+ 1689  git branch;
+ 1690  git branch -a
+ 1691  git branch git checkout master
+ 1692  git branch
+ 1693  git branch -a
+ 1694  git branch 
+ 1695  git branch -a
+ 1696  git branch 
+ 1697  git checkout -b test
+ 1698  git checkout name
+ 1699  git checkout "name"
+ 1700  git init
+ 1701  git branch
+ 1702  git checkout
+ 1703  git init
+ 1704  git branch
+ 1705  git checkout -b "test"
+ 1706  git branch
+ 1707  git checkout "master"
+ 1708  git branch
+ 1709  git merge test
+ 1710  git init
+ 1711  git branch
+ 1712  git remote show origin
+ 1713  git clone https://github.com/harveyspectre80/SnakeLadder.git
+ 1714  ls
+ 1715  git branch
+ 1716  git branch -a
+ 1717  git fetch
+ 1718  git config --global user.name
+ 1719  git config --global user.name harveyspectre80
+ 1720  git config --global user.email hemilturakhia@gmail.com
+ 1721  git status
+ 1722  git fetch
+ 1723  clear
+ 1724  history
+ 1725  git cofig -l
+ 1726  git config -l
+ 1727  git branch -a
+ 1728  ls
+ 1729  cd SnakeLadder/
+ 1730  git branch
+ 1731  git branch -a
+ 1732  git fetch
+ 1733  git branch
+ 1734  root
+ 1735  sudo root
+ 1736  sudo password tom
+ 1737  sudo password root
+ 1738  sudo passwd MobiComp
+ 1739  java -version
+ 1740  sudo install eclipse/
+ 1741  python
+ 1742  python 3
+ 1743  update python
+ 1744  zupdate python
+ 1745  python -- version
+ 1746  python3 --version
+ 1747  apt-cache search python3.6
+ 1748  sudo apt-get install python3.6
+ 1749  sudo apt-get upgrade python3.6
+ 1750  idle-python3.6
+ 1751  sudo apt install idle-python3.6
+ 1752  idle-python3.6
+ 1753  java -v
+ 1754  java -version
+ 1755  cd Desktop
+ 1756  mkdir madukara
+ 1757  cd madukara
+ 1758  gedit HarmonicNumber.java
+ 1759  javac HarmonicNumber.java
+ 1760  gedit HarmonicNumber.java
+ 1761  javac HarmonicNumber.java
+ 1762  java HarmonicNumber
+ 1763  gedit PrimeFactorization.java
+ 1764  .
+ 1765  cd ..
+ 1766  cd .
+ 1767  cd Downloads
+ 1768  cd Download
+ 1769  cd ..
+ 1770  cd Downloads
+ 1771  javac Main(3).java
+ 1772  javac Main3.java
+ 1773  java version
+ 1774  java -version
+ 1775  mkdir priya
+ 1776  ls
+ 1777  ls..
+ 1778  ls ..
+ 1779  ls ~
+ 1780  ls -a
+ 1781  ls -l
+ 1782  mkdir temp
+ 1783  ls
+ 1784  rm -R temp
+ 1785  ls
+ 1786  mkdir -p temp/temp
+ 1787  ls
+ 1788  cd temp
+ 1789  ls
+ 1790  touch test
+ 1791  ls -p
+ 1792  cp test test1
+ 1793  ls -p
+ 1794  mv test1 test2
+ 1795  ls p-
+ 1796  ls -p
+ 1797  ./configure
+ 1798  make
+ 1799  sudo make install
+ 1800  ls
+ 1801  rm -r terminal command
+ 1802  ls
+ 1803  rmdir priya
+ 1804  isblk
+ 1805  Isblk
+ 1806  lsblk
+ 1807  unmae
+ 1808  uname
+ 1809  ps
+ 1810  services
+ 1811  git version
+ 1812  cli
+ 1813  pwd
+ 1814  ls
+ 1815  mv mv sync.ffs_db .sync.ffs_db
+ 1816  mv  sync.ffs_db .sync.ffs_db
+ 1817  mv  Temlates .Templates
+ 1818  sudo snap install vlc
+ 1819  snap changes
+ 1820  sudo snap abort123
+ 1821  sudo snap abort 123
+ 1822  sudo snap abort 59
+ 1823  sudo snap install vlc
+ 1824  mkdir terminal command
+ 1825  pwd
+ 1826  cd
+ 1827  pwd
+ 1828  mkdir priyanka
+ 1829  cd priyanka
+ 1830  mkdir terminal command
+ 1831  cd terminal command
+ 1832  ls
+ 1833  rm -r terminal command/
+ 1834  ls
+ 1835  mkdir terminal_command
+ 1836  ls
+ 1837  cd terminal_command
+ 1838  git clone https://github.com/edurekavivekh/linux-content.git
+ 1839  ls
+ 1840  cd linux-content
+ 1841  ls
+ 1842  pwd
+ 1843  ls .
+ 1844  ls . .
+ 1845  ls ..
+ 1846  ls ~
+ 1847  ls -a
+ 1848  -l
+ 1849  -1
+ 1850  -l
+ 1851  ls -l
+ 1852  mkdir temp
+ 1853  ls
+ 1854  rm -R temp
+ 1855  ls
+ 1856  mkdir -p temp/temp
+ 1857  ls
+ 1858  cd temp
+ 1859  ls
+ 1860  touch test
+ 1861  ls
+ 1862  man touch
+ 1863  cp test test1
+ 1864  man cp
+ 1865  mv test1 test2
+ 1866  ls
+ 1867  man -s
+ 1868  man - s
+ 1869  ln -s test temp
+ 1870  man ln
+ 1871  ls -p temp
+ 1872  whereis ls
+ 1873  ls /bin
+ 1874  man ln
+ 1875  man ls
+ 1876  man bash
+ 1877  man brltty
+ 1878  man bunzip
+ 1879  man bunzip2
+ 1880  ls -l
+ 1881  touch a.txt
+ 1882  touch b.pdf
+ 1883  cd
+ 1884  cd priyanka
+ 1885  cd terminal_command
+ 1886  cd linux-content
+ 1887  ls
+ 1888  cd ..
+ 1889  mkdir QuickLink
+ 1890  ln -s ../linux-content/linux_chit_sheet.pdf ~/QuickLink/
+ 1891  cd
+ 1892  mkdir QuickLink
+ 1893  cd priyanka
+ 1894  cd terminal_command
+ 1895  ln -s ../linux-content/linux_chit_sheet.pdf ~/QuickLink/
+ 1896  ls -l ~/QuickLink/
+ 1897  ls  -l /etc/password
+ 1898  ls -l/etc
+ 1899  ls -l /etc
+ 1900  ls -l /etc/password
+ 1901  ls -l /etc/passwd
+ 1902  less/etc/passwd
+ 1903  less /etc/passwd
+ 1904  cat /etc/passwd
+ 1905  man cat
+ 1906  tail -2 /etc/passwd
+ 1907  cat /etc/passwd
+ 1908  less /etc/passwd
+ 1909  head /etc/passwd
+ 1910  ls
+ 1911  cat /etc/passwd
+ 1912  find .size +5M
+ 1913  find .-size +5M
+ 1914  find . -size +5M
+ 1915  find . -size 5M
+ 1916  find . -name *.pdf -size +5M
+ 1917  find . -type f
+ 1918  find . -size +5M |grep *.pdf
+ 1919  find . -size +5M |grep .pdf
+ 1920  find linux-content -name *.csv
+ 1921  find linux-content |grep.pdf
+ 1922  find linux-content |grep .pdf
+ 1923  grep captain linux-content/data.csv
+ 1924  grep CAPTAIN linux-content/data.csv
+ 1925  grep -i captain linux-content/data.csv
+ 1926  grep -ir captain linux-content
+ 1927  grep -ir gm linux-content
+ 1928  grep -i gm linux-content
+ 1929  grep -i gm linux-content/data.csv
+ 1930  grep -i gm captain linux-content/data.csv
+ 1931  cd linux-contant
+ 1932  cd linux-content
+ 1933  cat data.csv
+ 1934  grep -i gm data.csv
+ 1935  cd priyanka
+ 1936  cd terminal-command
+ 1937  cd terminal-commands/linux-contant
+ 1938  cd terminal_commands
+ 1939  ls
+ 1940  cd terminal_command
+ 1941  ls
+ 1942  cd linux-content
+ 1943  ls
+ 1944  ls grep -p|find . *.pdf
+ 1945  ls grep -p|find  .pdf
+ 1946  ls -p
+ 1947  ls -p | grep .pdf 
+ 1948  ls -p | grep /
+ 1949  ls -p | grep .
+ 1950  ls -p | grep -v /
+ 1951  env
+ 1952  env | grep USER
+ 1953  echo $USER
+ 1954  bash --version
+ 1955  man du
+ 1956  du -sh
+ 1957  du -sk
+ 1958  echo $SHELL
+ 1959  du -sh linux-content
+ 1960  du -sh linux-content/
+ 1961  cd..
+ 1962  cd .
+ 1963  cd 
+ 1964  cd priyanka
+ 1965  cd terminal-command
+ 1966  cd terminal_command
+ 1967  du -sh linux-content
+ 1968  du -sh linux-content/*
+ 1969  du -sm * | sort -nr
+ 1970  du -sm * | sort -n
+ 1971  find ~/Development -name commands.txt
+ 1972  find . -type f -empty
+ 1973  cd 
+ 1974  cd linux-content
+ 1975  cd temp
+ 1976  nano Helloword.java
+ 1977  nano -T 3Helloword.java
+ 1978  nano -T 3 Helloword.java
+ 1979  java Helloword
+ 1980  java --version
+ 1981  nano -T 3 Helloword.java
+ 1982  java Helloworld
+ 1983  nano -T 3 Helloword.java
+ 1984  nano -T 3 Helloworld.java
+ 1985  cd priyanka/terminal_command
+ 1986  cd linux-contant
+ 1987  ls
+ 1988  cd linux-content
+ 1989  cd temp
+ 1990  ls
+ 1991  java Helloworld
+ 1992  javac Helloworld.java
+ 1993  java Helloworld
+ 1994  nano -T 3 Helloworld.java
+ 1995  java Helloworld
+ 1996  javac Helloworld.java
+ 1997  nano -T 3 Helloworld.java
+ 1998  javac Helloworld.java
+ 1999  nano -T 3 Helloworld.java
+ 2000  javac Helloworld.java
+ 2001  java Helloworld
+ 2002  histry
+ 2003  history
+ 2004  history > terminal_command15jan.txt

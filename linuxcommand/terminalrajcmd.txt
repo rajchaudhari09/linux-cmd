@@ -1,0 +1,57 @@
+ln: failed to create hard link './raj12.sh': File exists
+user@FH400:~/Desktop/raj1$ ln raj12.sh hello.txt
+user@FH400:~/Desktop/raj1$ ls -l
+total 12
+-rw-r--r-- 2 user user 15 Feb 26 14:56 hello.txt
+-rw-r--r-- 1 user user 15 Feb 26 14:55 raj123.sh
+-rw-r--r-- 2 user user 15 Feb 26 14:56 raj12.sh
+user@FH400:~/Desktop/raj1$ ls -i
+823383 hello.txt  823386 raj123.sh  823383 raj12.sh
+user@FH400:~/Desktop/raj1$ cat hello.txt
+afafafafafafaf
+user@FH400:~/Desktop/raj1$ ln -s raj12.sh fred.txt
+user@FH400:~/Desktop/raj1$ ls -l
+total 12
+lrwxrwxrwx 1 user user  8 Feb 26 15:25 fred.txt -> raj12.sh
+-rw-r--r-- 2 user user 15 Feb 26 14:56 hello.txt
+-rw-r--r-- 1 user user 15 Feb 26 14:55 raj123.sh
+-rw-r--r-- 2 user user 15 Feb 26 14:56 raj12.sh
+user@FH400:~/Desktop/raj1$  ls -i
+825636 fred.txt  823383 hello.txt  823386 raj123.sh  823383 raj12.sh
+user@FH400:~/Desktop/raj1$  cat fred.txt
+afafafafafafaf
+user@FH400:~/Desktop/raj1$ clear
+
+user@FH400:~/Desktop/raj1$ less raj12.sh
+user@FH400:~/Desktop/raj1$ head raj12
+head: cannot open 'raj12' for reading: No such file or directory
+user@FH400:~/Desktop/raj1$ 
+user@FH400:~/Desktop/raj1$ 
+user@FH400:~/Desktop/raj1$ 
+user@FH400:~/Desktop/raj1$ 
+user@FH400:~/Desktop/raj1$ 
+user@FH400:~/Desktop/raj1$ head raj12.sh
+afafafafafafaf
+user@FH400:~/Desktop/raj1$ nano hello.txt
+user@FH400:~/Desktop/raj1$ cat hello.txt
+class helloworld
+{
+	public static void main(String args[])
+ 
+	{
+		System.out.println("------Hello World-----");
+		System.out.println("--------welcome to the in Bridgelabz worlds-----");
+	}
+
+}
+user@FH400:~/Desktop/raj1$ cat hello.java
+cat: hello.java: No such file or directory
+user@FH400:~/Desktop/raj1$ nano hello.txt
+Use "fg" to return to nano.
+
+[1]+  Stopped                 nano hello.txt
+user@FH400:~/Desktop/raj1$ nano terminalrajcmd.txt
+user@FH400:~/Desktop/raj1$ ^C
+user@FH400:~/Desktop/raj1$ ^C
+user@FH400:~/Desktop/raj1$ 
+
